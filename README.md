@@ -1,15 +1,14 @@
 ### Date created
-Include the date you created this project and README file.
-
+18/12/2019
 ### Project Title
-Replace the Project Title
-
+bikeshare
 ### Description
-Describe what your project is about and what it does
-
+A bike share systems for three major cities in the United States — Chicago, New York City, and Washington.
+Bicycle-sharing systems allow users to rent bicycles on a very short-term basis for a price. This allows people to borrow a bike from point A and return it at point B, though they can also return it to the same location if they'd like to just go for a ride. Regardless, each bike can serve several users per day.
 ### Files used
-Include the files used
-
+bikeshare.py
+chicago.csv
+new_york_city.csv
+washington.csv
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+https://github.com/udacity/pdsnd_github.git
