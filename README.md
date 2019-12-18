@@ -12,3 +12,7 @@ new_york_city.csv
 washington.csv
 ### Credits
 https://github.com/udacity/pdsnd_github.git
+### Author
+Mohab Hefnawy
+### Course Name
+Programming for Data Science for Enterprise Nanodegree Program
