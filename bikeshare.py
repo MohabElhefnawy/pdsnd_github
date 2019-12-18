@@ -5,7 +5,7 @@ import numpy as np
 CITY_DATA = { 'chicago': '.\data\chicago.csv',
               'new york city': '.\data\\new_york_city.csv',
               'washington': '.\data\washington.csv' }
-
+#Months & Week day
 MONTHS = ['january', 'february', 'march', 'april', 'may', 'june']
 WEEKDAYS = ['monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday']
 
