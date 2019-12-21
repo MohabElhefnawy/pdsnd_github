@@ -12,5 +12,12 @@ new_york_city.csv
 washington.csv
 ### Credits
 https://github.com/udacity/pdsnd_github.git
+<<<<<<< HEAD
+=======
+### Author
+Mohab Hefnawy
+>>>>>>> refactoring
 ### Course Name
 Programming for Data Science for Enterprise Nanodegree Program
+### Project Content
+SQL, Python, and Version Control
