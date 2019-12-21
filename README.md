@@ -20,4 +20,4 @@ Mohab Hefnawy
 ### Course Name
 Programming for Data Science for Enterprise Nanodegree Program
 ### Project Content
-SQL, Python, and Version Control
+SQL, Python, and Version Control.
